@@ -1,1 +1,2 @@
-# CPSC 330 2024W1 hw5
+# Assignment
+Worked through assignment familiarizing myself with multiple tree-based machine learning models and analysed results.
